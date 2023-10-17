@@ -1,3 +1,3 @@
 # Database for marketplace
 
-![image](https://github.com/bahriddin-abdusalomov/draw-sql/assets/123171397/e9091fc1-8aee-4641-8ce9-80f1e9a556a2)
+![Untitled](https://github.com/bahriddin-abdusalomov/draw-sql/assets/123171397/04f23340-fb39-480a-b3a9-01f98d24cecd)
